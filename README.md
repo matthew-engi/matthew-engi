@@ -20,7 +20,7 @@ Here is a timeline of my coding-life :)
 | **2021 - 2024** | Released some Open-Source Lua code to GitHub, getting some attention on Developer Forums |
 | **2025 - now** | Decided to expand my horizon, currently learning JavaScript, TypeScript, Rust! |
 
-And finally, here is a stack of my languages! (Get it!)
+And finally, here is the stack of my languages! (Get it!)
 | Language | Level | Notes |
 |----------|-------|-------|
 | **Lua** | Mastery Level | 10+ years experience |

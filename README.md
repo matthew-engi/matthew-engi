@@ -25,7 +25,7 @@ And finally, here is the stack of my languages! (Get it!)
 |----------|-------|-------|
 | **Lua** | Mastery Level | 10+ years experience |
 | **C/C++** | Intermediate Level | 2 years (Arduino coding, course-work) |
-| **Python** | Intermediate Level | 2 years (Data Analysis, course-work) |
+| **Python** | Intermediate Level | 2 years (Data Analysis, AI, course-work) |
 | **Java** | Intermediate Level | 1 year (course-work) |
 | **TypeScript** | Currently learning! | - |
 | **Rust** | Currently learning! | - |

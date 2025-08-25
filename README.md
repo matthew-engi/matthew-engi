@@ -13,17 +13,21 @@ For those more curious about my life, here are interesting facts about me!
 - I am interested in micro-electronics, specifically how they are designed and manufactured.
 
 Here is a timeline of my coding-life :)
-- **2013 - 2018** : Started coding in Lua, mostly small projects.
-- **2019 - 2020** : Released a game along side 4 other members. Reached nearly 1M users.
-- **2021 - 2024** : Released some Open-Source Lua code to GitHub, getting some attention on Developer Forums.
-- **2025 - now**  : Decided to expand my horizon, currently learning JavaScript, TypeScript, Rust!
+| Period | Milestone |
+|--------|-----------|
+| **2013 - 2018** | Started coding in Lua, mostly small projects |
+| **2019 - 2020** | Released a game alongside 4 other members. Reached nearly 1M users |
+| **2021 - 2024** | Released some Open-Source Lua code to GitHub, getting some attention on Developer Forums |
+| **2025 - now** | Decided to expand my horizon, currently learning JavaScript, TypeScript, Rust! |
 
 And finally, here is a stack of my languages! (Get it!)
-- **Lua**        : Mastery Level (10+ years)
-- **C/C++**      : Intermediate Level (2 years) (Arduino coding, course-work)
-- **Python**     : Intermediate Level (2 years) (Data Analysis, course-work)
-- **TypeScript** : Currently learning!
-- **Rust**       : Currently learning!
+| Language | Level | Notes |
+|----------|-------|-------|
+| **Lua** | Mastery Level | 10+ years experience |
+| **C/C++** | Intermediate Level | 2 years (Arduino coding, course-work) |
+| **Python** | Intermediate Level | 2 years (Data Analysis, course-work) |
+| **TypeScript** | Currently learning! | - |
+| **Rust** | Currently learning! | - |
 
 Thank you! :)
 

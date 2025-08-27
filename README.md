@@ -2,7 +2,7 @@
 ## Undergrad Electrical Engineering Student 
 
 Welcome to my world (or my GitHub profile, same thing ha)!
-Despite me being an Electrical Engineering student, I have a lot of passion for code. As little as 13 years old, I started writing code. The ROBLOX platform has introduced me to a lot of coding concepts, which have become natural to me over the years.
+Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old. The ROBLOX platform has introduced me to a lot of coding concepts, which have become natural to me over the years.
 
 ---
 

@@ -2,7 +2,7 @@
 ## Undergrad Electrical Engineering Student 
 
 Welcome to my world (or my GitHub profile, same thing ha)!
-Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old. The ROBLOX platform has introduced me to a lot of coding concepts, which have become natural to me over the years.
+Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old.
 
 ---
 
@@ -17,7 +17,7 @@ Here is a timeline of my coding-life :)
 |--------|-----------|
 | **2013 - 2018** | Started coding in Lua, mostly small projects |
 | **2019 - 2020** | Released a game alongside 4 other members. Reached nearly 1M users |
-| **2021 - 2024** | Released some Open-Source Lua code to GitHub, getting some attention on Developer Forums |
+| **2021 - 2024** | Released some Open-Source Lua code to GitHub, getting some attention on Forums |
 | **2025 - now** | Decided to expand my horizon, currently learning JavaScript, TypeScript, Rust! |
 
 And finally, here is the stack of my languages! (Get it!)
@@ -27,8 +27,9 @@ And finally, here is the stack of my languages! (Get it!)
 | **C/C++** | Intermediate Level | 2 years (Arduino coding, course-work) |
 | **Python** | Intermediate Level | 2 years (Data Analysis, AI, course-work) |
 | **Java** | Intermediate Level | 1 year (course-work) |
-| **TypeScript** | Currently learning! | - |
-| **Rust** | Currently learning! | - |
+| **VHDL** | Intermediate Level | 1 year (course-work) |
+| **TypeScript** | Intermediate Level | Currently Learning! |
+| **Rust** | Intermediate Level | Currently Learning! |
 
 Thank you! :)
 

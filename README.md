@@ -1,5 +1,9 @@
-# Matthew 🍁
-## Undergrad Electrical Engineering Student 
+<p align="center">
+  <strong>Matthew 🍁</strong><br/>
+  <em>Undergrad Electrical Engineering Student</em>
+</p>
+
+---
 
 Welcome to my world (or my GitHub profile, same thing ha)!
 Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old.
@@ -30,6 +34,12 @@ And finally, here is the stack of my languages! (Get it!)
 | **VHDL** | Intermediate Level | 1 year (course-work) |
 | **TypeScript** | Intermediate Level | Currently Learning! |
 | **Rust** | Intermediate Level | Currently Learning! |
+
+---
+
+<p align="center">
+  <em>Software I'm familiar with</em>
+</p>
 
 <p align="center">
   <!-- Programming Languages / Platforms -->

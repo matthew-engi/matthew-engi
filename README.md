@@ -1,6 +1,6 @@
 <p align="center">
-  <span style="font-size:50px; font-weight:bold;">Matthew 🍁</span><br/>
-  <span style="font-size:20px;">Undergrad Electrical Engineering Student</span>
+# Matthew 🍁
+## Undergrad Electrical Engineering Student
 </p>
 
 ---
@@ -36,7 +36,7 @@ And finally, here is the stack of my languages! (Get it!)
 ---
 
 <p align="center">
-  <span style="font-size:20px;">Software</span>
+## Software I am familiar with:
 </p>
 
 <p align="center">

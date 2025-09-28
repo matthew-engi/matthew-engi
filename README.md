@@ -1,6 +1,6 @@
 <p align="center">
-  <strong>Matthew 🍁</strong><br/>
-  <em>Undergrad Electrical Engineering Student</em>
+  # Matthew 🍁
+  ## Undergrad Electrical Engineering Student
 </p>
 
 ---

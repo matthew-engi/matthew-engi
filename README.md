@@ -85,3 +85,5 @@ And finally, here is the stack of my languages! (Get it!)
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="45" height="45"/>
 </p>
+
+[![Last.fm Recent Tracks](https://lastfm-recent-track-widget.vercel.app/api/user/ferretcrimes)](https://www.last.fm/user/ferretcrimes)

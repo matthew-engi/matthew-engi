@@ -48,9 +48,6 @@ And finally, here is the stack of my languages! (Get it!)
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="Arduino" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="45" height="45"/>
-  
-  <br/><br/>
-  
   <!-- IDEs / Editors / Package Managers -->
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>
@@ -65,23 +62,14 @@ And finally, here is the stack of my languages! (Get it!)
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="VIM" width="45" height="45"/>
-  
-  <br/><br/>
-  
   <!-- Design / Creative Tools -->
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" alt="Illustrator" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" alt="After Effects" width="45" height="45"/>
-  
-  <br/><br/>
-  
   <!-- Companies / Platforms -->
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Apple-Dark.svg" alt="Apple" width="45" height="45"/>
-  
-  <br/><br/>
-  
   <!-- Other / Integrations -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="45" height="45"/>
   <span>&nbsp;&nbsp;</span>

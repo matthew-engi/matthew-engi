@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:36px; font-weight:bold;">Matthew 🍁</span><br/>
+  <span style="font-size:50px; font-weight:bold;">Matthew 🍁</span><br/>
   <span style="font-size:20px;">Undergrad Electrical Engineering Student</span>
 </p>
 
@@ -7,8 +7,6 @@
 
 Welcome to my world (or my GitHub profile, same thing ha)!
 Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old.
-
----
 
 For those more curious about my life, here are interesting facts about me!
 - Ferrets are my favorite animal! They are so cute!

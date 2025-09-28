@@ -1,9 +1,9 @@
-<p align="center">
-  
-# Matthew 🍁
-## Undergrad Electrical Engineering Student
+<div align="center">
 
-</p>
+<h1>Matthew 🍁</h1>
+<h3>Undergrad Electrical Engineering Student</h3>
+
+</div>
 
 ---
 

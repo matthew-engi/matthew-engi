@@ -38,7 +38,9 @@ And finally, here is the stack of my languages! (Get it!)
 ---
 
 <p align="center">
+  
 ## Software I am familiar with:
+
 </p>
 
 <p align="center">

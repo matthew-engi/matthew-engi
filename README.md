@@ -86,7 +86,11 @@ And finally, here is the stack of my languages! (Get it!)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="45" height="45"/>
 </p>
 
-<pre>&lt;div class="last_fm_recent_tracks_bx">
-	&lt;h4>&lt;a href="http://www.last.fm/user/_ _ ferretcrimes _ _" target="_blank">Recently on Last.fm&lt;/a>&lt;/h4>
-	 &lt;ul count="5" user="_ _ ferretcrimes _ _" id="recent_on_last_fm_itm_list">&lt;/ul>
-&lt;/div&gt;</pre>
+<div class="last_fm_recent_tracks_bx">
+    <h4>
+        <a href="http://www.last.fm/user/ferretcrimes" target="_blank">
+            Recently on Last.fm
+        </a>
+    </h4>
+    <ul count="5" user="ferretcrimes" id="recent_on_last_fm_itm_list"></ul>
+</div>

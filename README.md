@@ -1,12 +1,3 @@
-<div align="center">
-
-<h1>Matthew 🍁</h1>
-<h3>Undergrad Electrical Engineering Student</h3>
-
-</div>
-
----
-
 Welcome to my world (or my GitHub profile, same thing ha)!
 Despite me being an Electrical Engineering student, I have a lot of passion for code. I started writing code at 13 years old.
 

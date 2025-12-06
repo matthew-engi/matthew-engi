@@ -18,7 +18,7 @@ Here is a timeline of my coding-life :)
 And finally, here is the stack of my languages! (Get it!)
 | Language | Level | Notes |
 |----------|-------|-------|
-| **Luau** | Mastery Level | 10+ years experience |
+| **Lua** | Mastery Level | 10+ years experience |
 | **C/C++** | Intermediate Level | 2 years (Arduino coding, course-work) |
 | **Python** | Intermediate Level | 2 years (Data Analysis, AI, course-work) |
 | **Java** | Intermediate Level | 1 year (course-work) |

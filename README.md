@@ -1,6 +1,4 @@
-Hello! I'm Matthew, an undergraduate student in Electrical Engineering. I live in Montreal, Canada 🍁
-
-I have worked for a couple of games reaching up to 10 million plays, and managed studios for said games. I like helping others learn how to code, and I appreciate feedback on my own projects.
+Hello! I'm Matthew, an undergraduate student in Electrical Engineering. I live in Montreal.
 
 <p align="center">
   <!-- Programming Languages / Platforms -->

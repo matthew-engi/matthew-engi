@@ -50,12 +50,3 @@ I have worked for a couple of games reaching up to 10 million plays, and managed
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="45" height="45"/>
 </p>
-
-<div class="last_fm_recent_tracks_bx">
-    <h4>
-        <a href="http://www.last.fm/user/ferretcrimes" target="_blank">
-            Recently on Last.fm
-        </a>
-    </h4>
-    <ul count="5" user="ferretcrimes" id="recent_on_last_fm_itm_list"></ul>
-</div>

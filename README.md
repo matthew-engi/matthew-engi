@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>U4 B.Eng @ McGill · Electrical Engineer</b><br/>
-  <i>Zig · Rust · Lua</i>
+  Passion for photonics, semiconductor devices, and advanced materials.<br/>
+  Wanting to pursue a PhD focused on photonics, semiconductor materials, and devices.<br/>
 </p>
 
 ---
